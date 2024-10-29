@@ -1,0 +1,3 @@
+C:/code/tree-sum-cpp/cmake-build-debug/CMakeFiles/education_cpp.dir
+C:/code/tree-sum-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/tree-sum-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
